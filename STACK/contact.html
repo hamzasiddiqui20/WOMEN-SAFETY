@@ -1,0 +1,76 @@
+contact.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Emergency & Contact - Women Safety System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+    <h1>Women Safety System</h1>
+    <p>Quick Access to Emergency Support</p>
+</header>
+
+<!-- NAVIGATION -->
+<nav>
+    <a href="index.html">Home</a>
+    <a href="tips.html">Safety Tips</a>
+    <a href="#contact">Emergency & Contact</a>
+</nav>
+
+<!-- EMERGENCY HELPLINES -->
+<section id="helplines">
+    <h2>Emergency Helpline Numbers</h2>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Number</th>
+        </tr>
+        <tr>
+            <td>Police</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Women Helpline</td>
+            <td>181</td>
+        </tr>
+        <tr>
+            <td>Ambulance</td>
+            <td>108</td>
+        </tr>
+        <tr>
+            <td>Child Helpline</td>
+            <td>1098</td>
+        </tr>
+    </table>
+</section>
+
+<!-- CONTACT FORM -->
+<section id="contactForm">
+    <h2>Quick Contact</h2>
+    <form onsubmit="sendMessage(event)">
+        <input type="text" id="name" placeholder="Your Name" required>
+        <input type="text" id="phone" placeholder="Phone Number" required>
+        <textarea id="message" placeholder="Emergency Message" required></textarea>
+        <button type="submit">Send Alert</button>
+    </form>
+    <p id="msgStatus"></p>
+</section>
+
+<!-- BACK TO HOME -->
+<section id="backHome">
+    <a href="index.html" class="sos-btn">← Back to Home</a>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <p>© 2026 Women Safety Mini Project</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

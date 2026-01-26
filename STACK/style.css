@@ -1,0 +1,213 @@
+style.css
+
+/* GENERAL BODY */
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(to right, #f3e5f5, #ede7f6);
+    color: #333;
+    padding: 0;
+    text-align: center;
+}
+
+/* HEADER */
+header, .header {
+    background: linear-gradient(to right, #6a1b9a, #8e24aa);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+header h1, .header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p, .header p {
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+/* NAVIGATION */
+nav, .menu {
+    background-color: #222;
+    text-align: center;
+    padding: 14px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+nav a, .menu a {
+    color: white;
+    margin: 15px 25px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+nav a:hover, .menu a:hover {
+    background-color: #9c27b0;
+    color: white;
+}
+
+/* SECTIONS */
+section {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+    text-align: left;
+}
+
+section h2 {
+    color: #6a1b9a;
+    border-left: 6px solid #9c27b0;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+/* FORMS */
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+}
+
+form input, form textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+form button {
+    background-color: #6a1b9a;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+form button:hover {
+    background-color: #8e24aa;
+}
+
+/* SOS BUTTON */
+.sos-btn {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 12px 30px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 30px;
+    text-decoration: none;
+    box-shadow: 0 0 15px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+
+.sos-btn:hover {
+    background-color: darkred;
+    transform: scale(1.1);
+}
+
+/* BANNER */
+.banner {
+    background: linear-gradient(to right, #ab47bc, #ce93d8);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.banner h2 {
+    font-size: 34px;
+    margin-bottom: 10px;
+}
+
+.banner p {
+    font-size: 20px;
+}
+
+/* FEATURES SECTION */
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px 20px;
+    gap: 20px;
+}
+
+.box {
+    background-color: white;
+    width: 28%;
+    min-width: 250px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.box h3 {
+    color: #6a1b9a;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.box p {
+    font-size: 16px;
+
+/* FOOTER */
+footer, .footer {
+    background: linear-gradient(to right, #9a4e1b, #8e24aa);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 14px;
+}
+
+/* LINK BOXES */
+.link-box {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* TABLE (for contact emergency helplines) */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+
+table th, table td {
+    border: 1px solid #6a1b9a;
+    padding: 12px;
+    text-align: center;
+}
+
+table th {
+    background-color: #6a1b9a;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #f3e5f5;
+}
+}
